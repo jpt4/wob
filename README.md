@@ -8,3 +8,6 @@ under the nom de plume Stephen N. Palaeologus. This book forms the
 nucleus of the WOB Papers Repository, itself the core of the larger
 Grammar Project, to be progressively developed over the course of this
 year.
+
+Public co-ordination document:
+https://docs.google.com/document/d/11vzAsPyVUudmmNIXDyj34YsdvRrPDG7lzLnXEozpI0Y/edit
