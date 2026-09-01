@@ -11,3 +11,6 @@ year.
 
 Public co-ordination document:
 https://docs.google.com/document/d/11vzAsPyVUudmmNIXDyj34YsdvRrPDG7lzLnXEozpI0Y/edit
+
+Session research notes (biography + archival correspondence survey):
+[`research/2026-08-31-session-record.md`](research/2026-08-31-session-record.md)
