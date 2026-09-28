@@ -1,0 +1,101 @@
+047703
+W. O. Brigstocke to Bertrand Russell
+4 Hatherley Road, Kew Gardens, 23 May 1919
+Autograph letter, six pages. Bertrand Russell Archives, RA1 710, box 5.05.
+
+Page numbers in the manuscript are given in parentheses. Underlining is marked _thus_. Insertions above the line are marked ^thus^. The two series on page 2, and the lightning and Napoleon layouts on page 4, are spaced as on the page. The second series begins one term later than the first; the small marks above the x's are read as exponents. The Arabic character on page 3 is a single handwritten glyph, read as the Arabic-Indic digit 4.
+
+(1)
+
+4 Hatherley Road. Kew Gardens. 23. v. 19
+
+Dear Sir:
+
+Thank you very much for your letter: I wanted very much to come to your lecture but I am always engaged at that time — I look forward to reading them when published.
+
+I am afraid I must express myself very badly: but you will admit it is hard!
+
+Of course I admit that words are physical occurrences: but that is not what I mean by a word. There is the word tiger and the thing tiger: both physical occurrences (so called!). But if analysed both these occurrences are reducible to terms of pressure + the effect of the pressure — which may be an electric phenomenon. All we know is that our senses 'work' by pressure: what pressure is at present unknown & seems unknowable.
+
+Starting then with the knowledge that something presses (i.e. light, sound, touch etc) we know that we construct by arbitrary but convenient selection what we call the idea of a thing which is the only thing we know or can know.
+
+What we call tiger is as obvious and as unreal as a rainbow & for the same reason i.e. because it is an epiphenomenon. This may expose me to the retort that everything must be an epiphenomenon: I can't help thinking that everything is potentially an epiphenomenon, just as every son is potentially a father.
+
+(2)
+
+It is our fond belief that ^what^ we see is reality: so it is: but it is real not because it is, but because we see it. And when we think of people with D.T.s we do not realise that if they suffer from an affliction it is because their delirium is inconvenient, whereas in this world it is advisable to suffer only from delirium conveniens. This delirium conveniens is reality: you will probably grant that mathematics is so too.
+
+And my aim is to show that all knowledge is not only similar to but _identical_ with mathematical knowledge: that it is hard to say what a point is for the _same reason_ & in the _same way_ as it is hard to say what a tiger is. That two tigers are just as difficult to negotiate as two points and for the same reason. That if planes are points, verbs are points in motion: that adjectives produce the effect we call fraction and so on.
+
+For instance on p 173 of your Intro. Math. Phil. you discuss the difference between Scott & the author of Waverley. The difference seems to me exactly the same as that between two infinite series
+
+    Scott    =  x¹, x², x³, ... n ...
+    A. of W. =  x², x³, x⁴, ... n ...
+
+You say on p 164 that the fundamental meaning of the word existence is that "arguments satisfying φx exist." If I understand that rightly, that exactly defines my position.
+
+You know that I have such a respect for your
+
+(3)
+
+learning that I am not deceived by your saying that you cannot pretend to have a considerable knowledge of languages: on the other hand, I am not at all impressed by your saying you have read a good deal about language. If you had said thought a good deal — that is quite another matter. But isn't it certain that the science of language is hopelessly at sea? One has only to consider the hopeless mess western grammarians have made of Japanese. I am assured by experts that the Japanese themselves have never written their own grammar. I doubt it, but am not yet in a position to judge. But even the elementary knowledge I have of Arabic & Japanese grammar has given me an insight into ^the^ limitations of any grammatical ideas based only on our language.
+
+A number of examples that you discuss quite seriously (if I understand you rightly) as logical problems, simply don't exist in other idioms. I should like to know whether your discussion of THE and A has any meaning at all for a man brought up in Sweden (where the idea is quite logically expressed) or in Japan (where there is no article at all). There are always three potential uses of a name:
+
+    _Tiger_    which may be thought of as a circle
+    A Tiger  is _any one_ point on the circle
+    The Tiger is _that one_ point I mean on the circle
+
+Then are the ideas: and the way they are expressed is of a secondary importance as the difference between the figure 4 and the Arabic ٤.
+
+(4)
+
+On p 164. You discuss the little problem
+
+    Men exist
+    Men are numerous  }  ∴ Socrates ...
+
+But it seems to me that this has nothing to do with logic: it is due to an idiomatic use of language: in many other languages the first _men_ would clearly express 'all men' and the second _men_ would be expressed by a word expressing 'collection'. One might as well play tricks with the fact that 0 stands for 5 in Arabic.
+
+Again on pp 156/157 you discuss
+
+    Lightning ... Thunder.
+    Napoleon  ... St Helena.
+
+If we deal with them by the circle method we have
+
+    Lightning-ness
+        a flash   i.e. any flash, one
+        the flash i.e. the one I mean.
+
+    Napoleon his-richness
+        a Napoleon I
+        the Napoleon I.
+
+And I can say in each case:
+
+    Lightning is followed by thunder
+    a flash    "  "  "  "
+    the flash  "  "  "  "
+    Napoleon the first's-ness died at St H.
+    a Napoleon I
+    the        "
+
+We are as certain of all these statements as we are that a line moving in a plane envelops
+
+(5)
+
+a plane curve. The examples surely are only of commercial interest.
+
+Lastly on p 172 you make the astonishing statement that in "Socrates is a man" this expresses identity. I admit that the right phrasing is extraordinarily difficult to explain: still more difficult to defend. But it is of no use deceiving ourselves by thinking that our language is anything but what it is. The difficulty would not be apparent in languages that don't use 'is' — or only use the verb in the past tense. The logical meaning seems to me to be clear: I have a circle (or idea) MAN. One of the points — (not any point as would seem to be suggested by 'a man') — a definite point on that circle is Socrates — the man I mean. It is of course fairly obvious that one of the commonest uses of THE in English is to turn the noun that follows it into a proper name, much as it acts in the phrase 'The O'Connor'.
+
+I have written at great length: but I am sure I may say without your misunderstanding me that it is very hard for anyone quite unknown to get his ideas considered at all by anyone competent to weigh them. I think (you will forgive my putting it this way!) I think I shall give up any idea of publishing, if you out and out condemn my ideas. But my ambition is to hear you say there is something in them: and then to see them published so that competent people may, if there is anything in them, set to work & develop
+
+(6)
+
+what is latent in them. I am already 40 yrs old and still have to make my living, so that I cannot hope to reach any adequate mastery of languages or mathematics. But I feel confident that in that combination will be found many surprising discoveries.
+
+Please accept my very sincere thanks.
+
+Yours faithfully
+W. O. Brigstocke.
