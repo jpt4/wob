@@ -4,3 +4,15 @@
 It is clear WOB was in correspondence with B. Russell while beginning to write the Grammar, both before (1917) [047698.txt] and during (1919) [047699.txt] [047700.txt]. The framing that WOB began the Grammar in response to a request to "restate" Vaihinger's `Als Ob`, but resulted in something very different [047699.txt] is interesting historically, though I doubt this was actually the case; although the `Logical Fictions` articles, the most direct predecessors of the Grammar, are published later, I suspect the core line of thought to have been in development for longer. 
 
 TODO: Find any earlier reference to what would become the Grammar, and/or its concepts.
+
+20260928:2012Z-4EDT
+
+Q: Who might be the pupil of Russell referenced in 047699.txt?
+
+A: The pupil is not named in the letters, and nothing published attaches Brigstocke to one of Russell’s students.
+
+The sentence in [047699.txt] is: “some years ago you were good enough to help me & I did a good deal of reading with one of your pupils.” In the English of that period, “reading with” someone means being tutored by them. The archive has no Brigstocke letter before 11 September 1917, and that letter already says Russell had answered him before, so the earlier help is not in this file.
+
+“Some years” before April 1919 points to about 1916–17. In those years Russell was teaching mathematical logic to Jean Nicod, Dorothy Wrinch, Victor Lenzen, and Raphael Demos, and the notes to his Brixton letters add “possibly others.” No source says Brigstocke read with any of them. Wrinch and Nicod are the two who were in England and working closely with Russell; Lenzen and Demos were visiting from America. Wittgenstein is the pupil Russell himself most often named, but he was in the Austrian army from 1914 to 1918, and there is no trace of him with Brigstocke.
+
+Philip Jourdain is the Russellian logician Brigstocke is known to have dealt with: by October 1919 Jourdain had accepted his articles for *The Monist*. They were the same age, and Jourdain had corresponded with Russell since 1902, but Russell treated him as a colleague, not as a pupil.

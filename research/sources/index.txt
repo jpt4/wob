@@ -1,0 +1,246 @@
+Index of research/sources
+Compiled 28 September 2026 from the files in this folder, their embedded text, and the notes made when copies were saved.
+A field marked "lacking" is not in the copy and is not filled in from elsewhere.
+Dates of copies are the file dates in this repo (EDT).
+
+================================================================
+Catalog
+
+Title: lacking (export of catalog records, not a published work)
+Author: lacking
+Publication date: lacking. The records list letters dated 11 September 1917 through 18 December 1921.
+Copy sourced from: a BRACERS export. The file does not record a URL. The records match BRACERS document numbers 047697–047709 (record numbers 237, 238, 74879, 75100–75109).
+Copy sourced when: file date 1 September 2026
+Location: research/sources/WOB_BR_BRACERS_export.csv
+Description: Thirteen rows for the Brigstocke–Russell file, with date, sender, recipient, form, and number of pieces. Topic notes are filled for only some rows. Form codes are given as ALS, TL(CAR), and TL(TC); the file does not expand them.
+
+================================================================
+Bertrand Russell Archives letters
+
+The thirteen PDFs were produced 25 September 2026 on a Xerox AltaLink C8030. They are in research/sources/wob-russell-letters/OneDrive_2026-09-26.zip, internal folder "2026-09-25 Torre/", and as loose PDFs with file dates 26 September 2026. The archival home stated in the transcripts, and matching the catalog export, is the Bertrand Russell Archives, RA1 710, box 5.05. Who sent the OneDrive copy, beyond the folder name Torre, is lacking. Plain-text transcripts were made in this repo on 28 September 2026.
+
+--- 047697 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 11 September 1917, Rugby
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047697.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047697.txt
+Description: Autograph letter to Bertrand Russell, two sides of a folded sheet. He asks leave to print a reconstruction of the passage on thought in Principles of Social Reconstruction, p. 165, beside the original. The enclosed reconstruction is not in the file. Catalog form ALS, 2 pieces.
+
+--- 047698 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 16 September 1917, Rugby
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047698.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047698.txt
+Description: Autograph letter to Bertrand Russell, two sides, thanking him for his answer about the reconstruction. Catalog form ALS, 1 piece. Catalog topic note: lacking.
+
+--- 047699 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 27 April 1919, 4 Hatherley Road, Kew Gardens
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047699.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047699.txt
+Description: Autograph letter to Bertrand Russell, one page. Muirhead had preferred a restatement of Vaihinger's Philosophie des Als Ob to a translation; Brigstocke asks Russell to read the opening of the manuscript, and says he formerly read with one of Russell's pupils. Catalog form ALS, 1 piece. Catalog topic note: lacking.
+
+--- 047700 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 7 May 1919, 4 Hatherley Road, Kew Gardens
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047700.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047700.txt
+Description: Autograph letter to Bertrand Russell, two pages. Pencil at the head: 1149. A typed copy, with a carbon, is 047701. Catalog form ALS, 1 piece. Catalog topic note: lacking.
+
+--- 047701 ---
+Title: lacking
+Author: W. O. Brigstocke (typed copy of his letter 047700)
+Publication date: 7 May 1919, 4 Hatherley Road, Kew Gardens
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047701.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047701.txt
+Description: Typed transcription of 047700, two pages, with a carbon of the same transcription (scan pages 3–4). Pencil on the ribbon copy: "1149." and "Rej". The typed signature reads "W. V. BRIGSTOCKE." Catalog form TL(TC), 2 pieces. Catalog note: "This is a transcription of document .047701. Also in the file: a carbon copy of this transcription."
+
+--- 047702 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 13 May 1919, 4 Hatherley Road, Kew Gardens
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047702.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047702.txt
+Description: Autograph letter to Bertrand Russell, two pages. Catalog topic note: "On Vaihinger." Catalog form ALS, 1 piece.
+
+--- 047703 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 23 May 1919, 4 Hatherley Road, Kew Gardens
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047703.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047703.txt
+Description: Autograph letter to Bertrand Russell, six pages. Catalog form ALS, 6 pieces. Catalog topic note: lacking.
+
+--- 047704 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 20 October 1919, 29 Shakespeare Road, Bedford
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047704.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047704.txt
+Description: Autograph letter to Bertrand Russell, one page, on visits to Vaihinger in Germany. Catalog topic note: "Brigstocke asks BR's permission to tell Vaihinger that he may send his book to BR." Catalog form ALS, 1 piece.
+
+--- 047705 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 5 October 1920, Royal Societies' Club, St James's Street
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047705.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047705.txt
+Description: Autograph letter to Bertrand Russell, one page, thanking him for a letter and a testimonial. Catalog form ALS, 1 piece. Catalog topic note: lacking.
+
+--- 047706 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 7 December 1921, Royal Societies Club
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047706.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047706.txt
+Description: Autograph letter to Bertrand Russell on club paper, two pages. The enclosed cutting, letter, and testimonials are not in the file. Catalog topic note: "Brigstocke asks BR's support for a government loan for scientific investigation." Catalog form ALS, 1 piece.
+
+--- 047707 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 17 December 1921, 29 Shakespeare Road, Bedford
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047707.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047707.txt
+Description: Autograph letter to Bertrand Russell, two pages, written across a struck-through Royal Societies Club heading. Catalog topic note: "BR has asked him to call." Catalog form ALS, 1 piece.
+
+--- 047708 ---
+Title: lacking
+Author: W. O. Brigstocke
+Publication date: 18 December 1921 (the letter says Sunday), 29 Shakespeare Road, Bedford
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047708.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047708.txt
+Description: Autograph letter to Bertrand Russell, two pages, on Royal Societies Club paper. Catalog form ALS, 1 piece. Catalog topic note: lacking.
+
+--- 047709 ---
+Title: lacking
+Author: Bertrand Russell
+Publication date: 14 September 1917, 57 Gordon Square, London
+Copy sourced from: see the series note above
+Copy sourced when: scan 25 September 2026; file in this repo 26 September 2026
+Location: research/sources/wob-russell-letters/047709.pdf
+Transcript: research/sources/wob-russell-letters/transcripts/047709.txt
+Description: Typed letter to W. O. Brigstocke, carbon copy, two pages, unsigned. On the rhythm of the passage on thought, and on the comparison with the passage on Charity. Catalog form TL(CAR), 1 piece. Catalog topic note: "BR explains the importance of rhythm and cadence in his prose and is honoured that his prose is compared with the biblical passage on charity."
+
+--- OneDrive zip ---
+Title: lacking
+Author: lacking
+Publication date: lacking
+Copy sourced from: the filename. Internal folder "2026-09-25 Torre/". Supplier, beyond that name, is lacking.
+Copy sourced when: file date 26 September 2026
+Location: research/sources/wob-russell-letters/OneDrive_2026-09-26.zip
+Description: Zip of the thirteen letter PDFs listed above. Not a separate document.
+
+================================================================
+Books and essays
+
+--- Principles of Social Reconstruction ---
+Title: Principles of Social Reconstruction
+Author: Bertrand Russell, F.R.S.
+Publication date: first published 1916. The preface says the lectures were written in 1915 and delivered at the beginning of 1916.
+Copy sourced from: Internet Archive cu31924032577532 (https://archive.org/details/cu31924032577532). The scan is the Cornell University Library copy, digitized by Microsoft in cooperation with Cornell University Libraries, 2007. Imprint in the scan: London, George Allen & Unwin Ltd., Ruskin House, 40 Museum Street, W.C.
+Copy sourced when: 28 September 2026
+Location: research/sources/cited-by-wob/russell-principles-of-social-reconstruction-1916.pdf
+Also: research/sources/cited-by-wob/page-165.png and page-166.png, rendered the same day from PDF pages 169–170 (printed pages 165–166). research/sources/cited-by-wob/excerpt-p165.txt, written the same day, quotes from "Men fear thought" through "the chief glory of man."
+Description: 264-page scan of the 1916 book. Brigstocke cites p. 165 on 11 September 1917 (047697). The quoted phrase "destructive and indifferent to authority" is on that page. The paragraph ends at the top of p. 166.
+
+--- Russell publications through 27 April 1919 ---
+Title: Bertrand Russell: publications through 27 April 1919
+Author: lacking (compiled in this repo; not a published bibliography)
+Publication date: lacking as a publication. The list stops at works printed on or before 27 April 1919, the date of 047699. Compiled 28 September 2026.
+Copy sourced from: the Bertrand Russell Society concise bibliography, https://users.drew.edu/~jlenz/br-bib-books.html, br-bib-articles.html, and br-bib-letters.html. That bibliography states that it is drawn from Kenneth Blackwell, Harry Ruja, and Sheila Turcon, A Bibliography of Bertrand Russell (Routledge, 1994), Nicholas Griffin's bibliography, and The Collected Papers of Bertrand Russell.
+Copy sourced when: 28 September 2026
+Location: research/sources/cited-by-wob/russell-publications-to-1919-04-27.txt
+Description: A list of printed books, pamphlets, articles, reviews, and letters to the editor. Unpublished lectures, private letters, and interviews are omitted, as the source list omits them.
+
+--- Michael Neo Palaeologus, His Grammar ---
+Title: Michael Neo Palaeologus, His Grammar
+Author: printed as "by his father Stephen N. Palaeologus". A handwritten "pseud." follows the name on the title page of this copy. The copy does not print another name.
+Publication date: 1924, printed on the title page
+Copy sourced from: Google Books page images, volume id 7YQoAQAAIAAJ, assembled into one PDF. Pages marked unavailable by Google are not included. The pages carry "Digitized by Google".
+Copy sourced when: 28 September 2026
+Location: research/sources/grammar/Michael_Neo_Palaeologus_His_Grammar.pdf
+Description: 400-page scan. Title page: London & Toronto, J. M. Dent & Sons Ltd.; New York, E. P. Dutton & Co.; "with one hundred illustrations & diagrams." Dedication "To A. B. Walkley, Esqre", with library pencil "958 / P153 / mic" on that leaf. Contents: Preface, Introduction, Part I Spades ("What happens when we think?"), Part II Hearts ("What happens when we say what we think?"), and an index. Whether every leaf of the printed book is present is lacking; omitted Google leaves are not listed in the file.
+
+--- Whitehead DOC220 (Grammar specimen) ---
+Title: Michael Neo-Palaeologus, His Grammar (so spelled in the PDF metadata; the printed heading is "Michael Neo Palaeologus, His Grammar")
+Author: printed "by his father Stephen N. Palaeologus". PDF metadata spells the surname "Palaelogus".
+Publication date: lacking in this copy. Publisher on the first page: London & Toronto, J. M. Dent & Sons Ltd. No year is printed in the extracted text.
+Copy sourced from: lacking as a URL. The filename uses DOC220, the Whitehead Research Library item named in the 31 August 2026 session record. The PDF itself was created 31 January 2020 (Adobe Acrobat paper capture).
+Copy sourced when: file date in this repo 31 August 2026
+Location: research/sources/whitehead-DOC220-palaeologus-grammar.pdf
+Description: Five pages, not the whole book. A title-page blurb calls it a treatise on the philosophical rather than the philological aspect of grammar, illustrated, with excerpts from contemporary journalism. The other pages are specimen pages, including "A short history of the rise and fall of the grammarians" and a marked "specimen page."
+
+The folder research/sources/logical-fictions/ holds two different titles. "Logical Fictions" is the printed title of the four Monist essays below. The Aristotelian Society paper is titled "Pickwickian Senses" and does not carry "Logical Fictions" in its title.
+
+--- Logical Fictions, I and II ---
+Title: Logical Fictions. I. What we know and how we know it. The scan continues through section II.
+Author: signed W. O. Brigstocke
+Publication date: lacking as an issue date inside the running heads. Printed page numbers run through 252 (heads include 241, 243, 245, 247, 249). The opening page does not show a number in the text extract. The Monist contents for 1920–29, consulted when the file was saved, list this as vol. 30, no. 2 (April 1920), pp. 240–252, which matches 13 article pages.
+Copy sourced from: Internet Archive jstor-27900800, a JSTOR Early Journal Content PDF. The PDF metadata title is "EJC Cover Page", not the article title.
+Copy sourced when: 28 September 2026. The PDF file was created 23 January 2013.
+Location: research/sources/logical-fictions/monist-1920-04-logical-fictions-i-ii.pdf
+Description: 14 pages: the JSTOR cover leaf, then the article. Last printed page is 252.
+
+--- Logical Fictions, III ---
+Title: Logical Fictions. III.
+Author: signed W. O. Brigstocke, London, England
+Publication date: lacking as an issue date inside the running heads. Heads include printed pages 397, 399, and 401. The last page's text extract shows no page number. The Monist contents list this as vol. 30, no. 3 (July 1920), pp. 395–405, which matches 11 article pages.
+Copy sourced from: Internet Archive jstor-27900813, JSTOR Early Journal Content. PDF metadata title: "EJC Cover Page".
+Copy sourced when: 28 September 2026. The PDF file was created 23 January 2013.
+Location: research/sources/logical-fictions/monist-1920-07-logical-fictions-iii.pdf
+Description: 12 pages: the JSTOR cover leaf, then the article.
+
+--- Logical Fictions, IV and V ---
+Title: Logical Fictions. The scan opens at section iv and contains section v.
+Author: signed W. O. Brigstocke
+Publication date: lacking as an issue date inside the running heads. Heads include 549, 553, 555, 557, 559, 561, and 563; the last page is printed 567. The Monist contents list this as vol. 30, no. 4 (October 1920), pp. 548–567, which matches 20 article pages.
+Copy sourced from: Internet Archive jstor-27900828, JSTOR Early Journal Content. PDF metadata title: "EJC Cover Page".
+Copy sourced when: 28 September 2026. The PDF file was created 23 January 2013.
+Location: research/sources/logical-fictions/monist-1920-10-logical-fictions-iv-v.pdf
+Description: 21 pages: the JSTOR cover leaf, then the article.
+
+--- Logical Fictions, VI–IX ---
+Title: Logical Fictions. Sections vi, VII, VIII, and IX are in the scan.
+Author: signed W. O. Brigstocke
+Publication date: lacking as an issue date inside the running heads. Heads include 37, 39, 41, 43, 45, 47, and 49; the last page is printed 57. The Monist contents list this as vol. 31, no. 1 (January 1921), pp. 36–57, which matches 22 article pages.
+Copy sourced from: Internet Archive jstor-27900841, JSTOR Early Journal Content. PDF metadata title: "EJC Cover Page".
+Copy sourced when: 28 September 2026. The PDF file was created 23 January 2013.
+Location: research/sources/logical-fictions/monist-1921-01-logical-fictions-vi-ix.pdf
+Description: 23 pages: the JSTOR cover leaf, then the article. No later Monist instalment is in this folder. The journal's contents through 1929, checked when these files were saved, list Brigstocke only these four times.
+
+--- Pickwickian Senses ---
+Title: VI.—Pickwickian Senses
+Author: W. O. Brigstocke
+Publication date: read at a meeting of the Aristotelian Society, 21 Gower Street, London, W.C. 1, on Monday, 19 January 1925. Printed pages 107–118. The volume year on the source scan is 1925 (Proceedings of the Aristotelian Society, vol. 25). Publisher of the volume: lacking in the extracted pages.
+Copy sourced from: Internet Archive in.ernet.dli.2015.43860, file 2015.43860.Proceedings-Of-The-Aristotelian-Society--Vol25.pdf. These twelve pages are PDF pages 114–125 of that volume.
+Copy sourced when: extracted 28 September 2026
+Location: research/sources/logical-fictions/aristotelian-society-1925-pickwickian-senses.pdf
+Description: The paper as printed, from the meeting notice through page 118. Its title is "Pickwickian Senses," not "Logical Fictions." A footnote on the first page cites Psyche, October 1924, p. 115. No Psyche essay by Brigstocke is in this folder.
