@@ -1,0 +1,736 @@
+Bertrand Russell: publications through 27 April 1919
+
+Cutoff: the date of W. O. Brigstocke's letter of 27 April 1919 (047699).
+A work is included when its printed date is on or before that day.
+Issues dated only by month are included when the month is April 1919 or earlier.
+
+Source: the Bertrand Russell Society's concise bibliography
+(https://users.drew.edu/~jlenz/br-bib-books.html,
+ https://users.drew.edu/~jlenz/br-bib-articles.html,
+ https://users.drew.edu/~jlenz/br-bib-letters.html),
+which lists printed books, pamphlets, articles, reviews, and letters
+to the editor. It is drawn from Kenneth Blackwell, Harry Ruja, and
+Sheila Turcon, A Bibliography of Bertrand Russell (Routledge, 1994),
+Nicholas Griffin's bibliography, and The Collected Papers of Bertrand Russell.
+Unpublished lectures, private letters, and interviews are not listed.
+Reprint notes (PE, ML, LK, and so on) are kept from that bibliography.
+
+Books
+
+1896  German Social Democracy. London: Longmans, Green.
+1897  An Essay on the Foundations of Geometry. Cambridge: Cambridge University Press.
+1900  A Critical Exposition of the Philosophy of Leibniz. Cambridge: Cambridge University Press.
+1903  The Principles of Mathematics. Cambridge: Cambridge University Press.
+1910  Philosophical Essays. London: Longmans, Green.
+1910–13  Principia Mathematica, with Alfred North Whitehead. 3 vols. Cambridge: Cambridge University Press. (Vol. 1, 1910; vol. 2, 1912; vol. 3, 1913.)
+1912  The Problems of Philosophy. London: Williams and Norgate.
+1914  Our Knowledge of the External World as a Field for Scientific Method in Philosophy. Chicago: Open Court.
+1915  Justice in War-Time. London: National Labour Press. Revised edition, Chicago: Open Court, 1916.
+1916  Principles of Social Reconstruction. London: George Allen & Unwin. American edition, retitled Why Men Fight: A Method of Abolishing the International Duel. New York: The Century Company, 1917.
+1917  Political Ideals. New York: The Century Company.
+1918  Mysticism and Logic and Other Essays. London: Longmans, Green.
+1918  Roads to Freedom: Socialism, Anarchism and Syndicalism. London: George Allen & Unwin.
+1919  Introduction to Mathematical Philosophy. London: George Allen & Unwin, March 1919.
+
+Pamphlets
+
+1907  To the Electors of the Wimbledon Division of Surrey. London: George Falkner & Sons. Election leaflet.
+1910  Anti-Suffragist Anxieties. London: People's Suffrage Federation.
+1912  The Philosophy of Bergson. Chicago: Open Court. Revised edition, Cambridge: Bowes and Bowes, 1914.
+1914  Scientific Method in Philosophy. Oxford: Clarendon Press. The Herbert Spencer Lecture, November 1914. Reprinted in Mysticism and Logic.
+1914  Preface to Henri Poincaré, Science and Method. London: Thomas Nelson. (English translation, 1914.)
+1914  War—The Offspring of Fear. London: Union of Democratic Control.
+1915  The Philosophy of Pacifism. London: League of Peace and Freedom.
+1915  The Policy of the Entente, 1904–14. Manchester: National Labour Press.
+1916  Political Ideals. National Council for Civil Liberties. Reprinted as chapter 1 of the 1917 book.
+1916  An Open Letter to the President. American Neutral Conference Committee.
+1916  Two Years' Hard Labour for Refusing to Disobey the Dictates of Conscience [The Everett Leaflet]. No-Conscription Fellowship.
+1916  Why Not Peace Negotiations? No-Conscription Fellowship.
+1916  What Are We Fighting For? No-Conscription Fellowship.
+1916  Bertrand Russell and the War Office. National Council for Civil Liberties.
+1916  Rex v. Bertrand Russell. No-Conscription Fellowship.
+
+Articles and reviews
+
+1895
+
+Review of G Heymans, Die Gesetze und Elemente des wissenschaftlichen Denken, Mind, n.s. 4, no. 14 (Apr 1895), 245-9
+
+1896
+
+“The Logic of Geometry,” Mind, n.s. 5, no. 17 (Jan 1896), 1-23
+
+Review of G. Lechalas, Étude sur l’espace et le temps, Mind, n.s. 5, no. 17 (Jan 1896), 128
+
+“ The A Priori in Geometry,” Proceedings of the Aristotelian Society, o.s.3, no.2 (1895-6), 97-112
+
+Review of Hannequin, Essai critique sur l’hypothesè des atomes dans la science contemporaine, Mind, n.s. 5, no. 19 (Jul 1896), 410-17
+
+1897
+
+Review of L. Couturat, De l’Infini mathématique, Mind, n.s. 6, no. 21 (Jan 1897), 112-19
+
+Review of J. Schmöle, Die Sozialdemokratischen Gewerkschafen in Deutschland seit dem Sozialisten-Gesetzes, The Economic Journal 7 (Mar 1897), 94-5
+
+“Self-Appreciations. I. Orlando,” The Golden Urn, no. 1 (Mar 1897), 30-1
+
+“On the Relations of Number and Quantity,” Mind, n.s. 6, no. 23 (Jul 1897), 326-41
+
+> Couturat calls it “An article so full of ideas, it is difficult to summarize without weakening its force” Revue de métaphysique et de morale 6 no. 4, Jul 1898
+
+1898
+
+Review of A. E. H. Love, Theoretical Mechanics: An Introductory Treatise on the Principles of Dynamics, Mind, n.s. 7, no. 27 (Jul 1898), 404-11
+
+Review of E. Goblot, Essai sur la classification des sciences, Mind, n.s. 7, no. 28 (Oct 1898), 567-8
+
+“Les axiomes propres à Euclide, sont-ils empiriques?” Revue de métaphysique et de morale 6 (Nov 1898), 759-76 Reply to Couturat
+
+1899
+
+Review of A. Meinong, Über die Bedeutung des Weberschen Gesetzes, Mind, n.s. 8, no. 30 (Apr 1899), 251-6
+
+“Sur les axiomes de la géométrie,” Revue de métaphysique et de morale 7 (Nov 1899), 684-707 Reply to H. Poincaré
+
+1900
+
+Review of J. Schultz, Psychologie der Axiome, Mind, n.s. 9, no. 33 (Jan 1900), 120-1
+
+1901
+
+“On the Notion of Order,” Mind, n.s. 10, no. 37 (Jan 1901), 30-51
+
+Review of Boutroux, L'Imagination et les mathématiques selon Descartes, Mind, n.s. 10, no. 38 (Apr 1901), 274
+
+“Is Position in Time and Space Absolute or Relative?” Mind, n.s. 10, no. 39 (Jul 1901), 293-317
+
+Review of Kant, Cosmogony, Mind, n.s. 10, no. 39 (Jul 1901), 405-7
+
+“Recent Work on the Principles of Mathematics,” The International Monthly 4 (Jul 1901), 83-101 Repr. as “Mathematics and the Metaphysicians,” ML
+
+“Sur la logique des relations avec des applications à la théorie des series,” Revue de mathématiques 7, nos. 2-3 (1901), 115-36, 137-48 English tr. “The Logic of Relations,” LK
+
+1902
+
+“Théorie générale des séries bien-ordonnées,” Revue de mathématiques 8, nos. 1-2 (1902), 12-24, 25-43
+
+“ The Teaching of Euclid,” The Mathematical Gazette 2 (May 1902), 165-7
+
+Note on Lechalas’ Review of An Essay on the Foundations of Geometry, Révue neo-scolastique 9 (May 1902), 294-5
+
+“On Finite and Infinite Cardinal Numbers,” American Journal of Mathematics 24 (Oct 1902), 378-83 Section 3 of Whitehead’s “On Cardinal Numbers,” ibid., pp. 367-94
+
+1903
+
+“Recent Work on the Philosophy of Leibniz,” Mind, n.s. 12, no. 46 (Apr 1903), 177-201
+
+Review of Kurt Geissler, Die Grundsätze und das Wesen des Unendlichen in der Mathematik und Philosophie, Mind, n.s. 12, no. 46 (Apr 1903), 267-9
+
+“ The Free Man’s Worship,” The Independent Review 1 (Dec 1903), 415-24 Repr. ML
+
+Review of G.E. Moore, Principia Ethica, The Cambridge Review 25 (Dec 3 1903), lit. sup. 37-8
+
+Comments on Definitions of “Cause,” “Contenu” and “Convergence,” Bulletin de la société française de philosophie 3 (1903), 163, 192-3, 197
+
+1904
+
+“ Literature of the Fiscal Controversy,” The Independent Review 1 (Jan 1904), 684-8 Lit Review
+
+“The Tariff Controversy,” The Edinburgh Review 199 (Jan 1904), 169-96 Literature review
+
+Review of Louis Couturat, ed., Opuscules et fragments inédits de Leibniz, Mind, n.s. 13, no. 49 (Jan 1904), 131-2
+
+Review of L.J. Delaporte, Essai philosophique sur les géométries non-Euclidiennes, Mind, n.s. 13, no. 49 (Jan 1904), 132-3
+
+“ Mr. Charles Booth’s Proposals for Fiscal Reform,” The Contemporary Review 85 (Feb 1904), 198-206
+
+“ The Meaning of Good,” The Independent Review 2 (Mar 1904), 328-33 Review of G.E. Moore, Principia Ethica
+
+“Meinong’s Theory of Complexes and Assumptions,” Mind, n.s. 13, nos. 50, 51, 52 (Apr, Jul, Oct 1904), 204-19, 336-54, 509-24 Repr. EA
+
+“ On History,” The Independent Review 3 (Jul 1904), 207-15 Repr. PE
+
+“ The Axiom of Infinity,” Hibbert Journal 2, no. 4 (Jul 1904), 809-12 Reply to Keyser, “The Axiom of Infinity, ” Hibbert Journal 2, no. 3 (Apr 1904), 532-52 Repr. EA
+
+Review of C. H. Hinton, The Fourth Dimension, Mind, n.s. 13, no. 52 (Oct 1904), 573-4
+
+“Non-Euclidean Geometry,” The Athenaeum, no. 4,018 (Oct 29 1904), 592-3 Reply to MacColl
+
+1905
+
+Review of Branislav Petronievics, Principien der Metaphysik, Mind, n.s. 14, no. 53 (Jan 1905), 128-9
+
+“Science and Hypothesis,” The Westminster Gazette, Jun 3 1905, 13 Review of Poincaré, Science and Hypothesis
+
+“ The Existential Import of Propositions,” Mind, n.s. 14, no. 55 (Jul 1905), 398-401 Repr. EA
+
+Review of Poincaré, Science and Hypothesis, Mind, n.s. 14, no. 55 (Jul 1905), 412-18 Repr. PE
+
+“ On Denoting,” Mind, n.s. 14, no. 56 (Oct 1905), 479-93 Repr. LK
+
+Review of A. Meinong, ed., Untersuchungen zur Gegenstandstheorie und Psychologie, Mind, n.s. 14, no. 56 (Oct 1905), 530-8 Repr. EA
+
+“Sur la relation des mathématiques à la logistique,” Revue de métaphysique et de morale 13 (Nov 1905), 906-16 English tr. “On the Relation of Mathematics to Logic,” EA
+
+Comments on Definitions of “Epistemologie” and “Evidence,” Bulletin de la société française de philosophie 5 (1905), 221, 235
+
+Comment on Abstracts of Two Papers, Sociological Papers 1 (1905), 244
+
+1906
+
+“On Some Difficulties in the Theory of Transfinite Numbers and Order Types,” Proceedings of the London Mathematical Society, series 2, 4 (Mar 7 1906), 29-53 Repr. EA
+
+Review of H. MacColl, Symbolic Logic and Its Applications, The Athenaeum, no. 4,092 (Mar 31 1906), 396-7
+
+“The Theory of Implication,” American Journal of Mathematics 28 (Apr 1906), 159-202
+
+Review of H. MacColl, Symbolic Logic and Its Applications, Mind, n.s. 15, no. 58 (Apr 1906), 255-60
+
+Review of A. Pastore, Logica formale dedotta dalla considerazione di modelli meccanici, Mind, n.s. 15, no. 58 (Apr 1906), 277
+
+“ Religion and Metaphysics,” The Independent Review 9 (Apr 1906), 109-16 Review of McTaggart, Some Dogmas of Religion
+
+“Is Reason Irrational?” The Speaker, n.s. 14 (Apr 7 1906), 14-15 Review of Santayana, Reason in Science
+
+“ What Is Truth?” The Independent Review 9 (Jun 1906), 349-53 Review of Joachim, The Nature of Truth
+
+“ A History of Free Thought,” The Tribune (London) Jun 4 1906, 2 Review of Robertson, A Short History of Freethought, Ancient and Modern
+
+Review of Meinong, Über die Erfahrungsgrundlagen unseres Wissens, Mind, n.s. 15, no. 59 (Jul 1906), 412-5
+
+“The Study of Logic,” The Tribune (London), Jul 7 1906, 2 Review of Joseph, Introduction to Logic
+
+“ Freethought, Ancient and Modern,” The Speaker, n.s. 14 (Aug 4 1906), 402-3 Review of Robertson, A Short History of Freethought
+
+“Les paradoxes de la logique,” Revue de métaphysique et de morale 14 (Sep 1906), 627-50 Reply to Poincare English tr. “On ‘Insolubilia,’” EA
+
+“ The Nature of Truth,” Mind, n.s. 15, no. 60 (Oct 1906), 528-33
+
+Comments on Definitions of “Figure” and “Force,” Bulletin de la société française de philosophie 6 (1906), 307, 320
+
+“Marriage and Eugenics,” Sociological Papers 2 (1906), 47 Comment on two papers by Galton
+
+1907
+
+To the Electors of the Wimbledon Division of Surrey London: George Falkner & Sons (election campaign leaflet) Repr. CPBR 12
+
+“ The Development of Morals,”The Independent Review 12 (Feb 1907), 204-10 Review of Hobhouse, Morals in Evolution (Chapman and Hall, 1906)
+
+“Metaphysics for the Man of Action,” The Nation (London) 1 (Mar 2 1907), 44-5 Review of Schiller, Studies in Humanism
+
+“Garibaldi’s Defence of the Roman Republic,” The Edinburgh Review 205 (Apr 1907), 489-507 Book review essay
+
+“Spinoza’s Moral Code,” The Nation (London) 1 (Apr 13 1907), 276 Review of Picton, Spinoza: A Handbook to the Ethics
+
+Review of Meinong, Über die Stellung der Gegenstandstheorie im System der Wissenschaften, Mind, n.s. 16, no. 63 (Jul 1907), 436-9 Repr. EA
+
+“On the Nature of Truth,” Proceedings of the Aristotelian Society, 7 (1907), 28-49
+
+“ The Politics of a Biologist,” The Albany Review (London) n.s. 2 (Oct 1907), 89-98 Review of Chatterton-Hill, Heredity and Selection in Sociology
+
+“The Study of Mathematics,” The New Quarterly (London) 1 (Nov 1907), 29-44 Repr. ML
+
+1908
+
+“Transatlantic Truth,” The Albany Review n.s. 2 (Jan 1908), 393-410 Review of William James, Pragmatism Repr. PE
+
+“ After the Second Reading,” Women’s Franchise (London) 1 (Mar 12 1908), 429 On the women’s enfranchisement bill
+
+“ Mr. Haldane on Infinity,” Mind, n.s. 17, no. 66 (Apr 1908), 238-42
+
+“‘If’ and ‘Imply,’ a Reply to Mr. MacColl,” Mind, n.s. 17, no. 66 (Apr 1908), 300-1
+
+“Mathematical Logic as Based on the Theory of Types,” American Journal of Mathematics vol. 30, no. 3 (Jul 1908), 222-62 Repr. LK
+
+“ Mr. Asquith’s Pronouncement,” Women’s Franchise (London) 1 (May 28 1908), 565
+
+“Newton’s Philosophy,” Nature (London) 78 (Jun 4 1908), 99-100 Review of Leon Bloch, La Philosophie de Newton
+
+“ Liberalism and Women’s Suffrage,” The Contemporary Review 94 (Jul 1908), 11-16
+
+“ Biology and Politics,” The Nation (London) 3 (Sep 26 1908), 918, 920 Review of George Chatterton-Hill, Heredity and Selection in Sociology
+
+“Determinism and Morals,” The Hibbert Journal 7 (Oct 1908), 113-21 Repr. pt. 4, “The Elements of Ethics,” PE
+
+Review of Essays, Philosophical and Psychological, in Honor of William James, The Hibbert Journal 7 (Oct 1908), 203-7
+
+1909
+
+Review of Arnold Reymond, Logique et mathématiques, Mind, n.s. 18, no. 70 (Apr 1909), 299-301
+
+“Pragmatism,” The Edinburgh Review 209 (Apr 1909), 363-88 Repr. PE
+
+Review of Paul Carus, The Foundations of Mathematics, The Mathematical Gazette 5 (Jun-Jul 1909), 103-4 Repr. The Monist 20 (Jan 1910), 64-5
+
+“ Should Suffragists Welcome the People’s Suffrage Federation?” The Common Cause (Manchester) 1 (Dec 9 1909), 463-4
+
+1910
+
+Anti-Suffragist Anxieties, London: People’s Suffrage Federation Repr. CPBR 12
+
+“Ethics,” The New Quarterly 3 (Feb, May 1910), 21-34, 131-43 Repr. pts 1-3 of “The Elements of Ethics,” PE
+
+“La théorie des types logiques,” Revue de métaphysique et de morale 18 (May 1910), 263-301 English tr. “The theory of Logical Types,” EA
+
+“Some Explanations in Reply to Mr. Bradley,” Mind, n.s. 19, no. 75 (Jul 1910), 373-8
+
+Review of G. Mannoury, Methodologisches und Philosophisches zur Elememar-Mathematik, Mind, n.s. 19, no. 75 (Jul 1910), 438-9
+
+“The Philosophy of William James,” The Nation (London) 7 (Sep 3 1910), 793-4
+
+“Spinoza,” The Nation 8 (Nov 12 1910), 278, 280
+
+1911
+
+“The Basis of Realism,” The Journal of Philosophy, Psychology and Scientific Methods 8 (Mar 16 1911), 158-61
+
+“Le realisme analytique,” Bulletin de la société française de philosophie 11 (Mar 1911), 53-82
+
+“L'importance philosophique de la logistique,” Revue de metáphysique et de morale 19 (May 1911), 281-91 Repr. as “The Philosophical Implications of Mathematical Logic” in AE and as “The Philosophical Importance of Mathematical Logic” in CPBR6
+
+“ Memories and Studies,” The Cambridge Review 33 (Nov 16 1911), 118 Review of William James, Memories and Studies, (Longmans, 1911)
+
+“Sur les axiomes de l'infini et du transfini,” Société mathématique de France, Compres rendus des séances, no. 2 (1911), 22-35 English tr. “On the Axioms of the Infinite and of the Transfinite,” Dear Russell-Dear Jourdain
+
+“Knowledge by Acquaintance and Knowledge by Description,” Proceedings of the Aristotelian Society 11 (1910-1), 108-28 Repr. ML
+
+1912
+
+“ The Professor’s Guide to Laughter,” The Cambridge Review 33 (Jan 18 1912), 193-4 Review of Bergson’s Laughter
+
+“The Philosophy of Theism,” The Nation (London) 10 (Feb 10 1912), 788 Review of James Ward, The Realm of Ends
+
+“A Medical Logician,” The Nation (London) 10 (Mar 23 1912), 1,029-30
+
+“Pragmatism and Logic,” The Nation 11 (May 18 1912), 258-9 Review of F.C.S. Schiller, Formal Logic: A Scientific and Social Problem
+
+“The Philosophy of Bergson,” The Monist 22 (Jul 1912), 321-47 Repr. (revised) “Bergson,” HWP
+
+“Hegel and Common Sense,” The Nation 11 (Aug 17 1912), 739-40 Review of Hegel, Hegel’s Doctrine of Formal Logic
+
+“Réponse à M. Koyré,” Revue de metaphysique et de morale 20 (Sep 1912), 725-6
+
+“The Philosophy of Good Taste,” The Nation 11 (Sep 7 1912), 840, 842 Review of Bosanquet, The Principle of Individuality and Value
+
+“The Essence of Religion,” The Hibbert Journal 11 (Oct 1912), 46-62 Repr. BW
+
+Review of William James, Essays in Radical Empiricism, Mind, n.s. 21, no. 84 (Oct 1912), 571-5
+
+Review of Emile Boutroux on William James, The Cambridge Review 34 (Dec 5 1912), 176
+
+“On the Relations of Universals and Particulars,” Proceedings of the Aristotelian Society 12 (1911-2), 1-24 Repr. LK
+
+1913
+
+“The Nature of Sense-Data  Reply to Dr. Dawes Hicks,” Mind, n.s. 22, no. 85 (Jan 1913), 76-81
+
+“The Twilight of the Absolute,” The Nation (London) 12 (Feb 22 1913), 864
+
+“Metaphysics and Intuition,” The Cambridge Review 34 (Apr 17 1913), 376-7
+
+“Mr. Wildon Carr’s Defence of Bergson,” The Cambridge Magazine (UK), 2 (Apr 26 1913), 490, 492 Repr. in The Philosophy of Bergson
+
+Course Descriptions, Official Register of Harvard University 10, no.1, pt 11 (May 20 1913), 16-17,21
+
+“Science as an Element in Culture,” The New Statesman (London) 1 (May 24, 31 1913), 202-4, 234-6) Repr. “The Place of Science in a Liberal Education,” ML
+
+“Philosophy Made Orthodox,” The Nation (London) 13 (Jun 14 1913), 431 Review of F.B. Jevons, Personality
+
+“On the Notion of Cause,” Proceedings of the Aristotelian Society 13 (1912-3), 1-26 Repr. ML
+
+Review of A. Ruge et al., Encyclopaedia of the Philosophical Sciences, vol. 1: Logic, The Cambridge Review 35 (Nov 27 1913), 161
+
+Review of G.M. Trevelyan, Clio, a Muse, The Cambridge Review 35 (Dec 4 1913), 189-90
+
+“The Ordination Service,” The Cambridge Magazine 3 (Dec 6 1913), 229, 231
+
+1914
+
+“On the Nature of Acquaintance,” The Monist 24 (Jan, Apr, Jul 1914), 1-16, 161-87, 435-53 Repr. TK pt.1 chs.1-3, LK
+
+“Competitive Logic,” The Nation (London) 14 (Jan 31 1914), 771-2 Review of A. Ruge et al., Encyclopaedia of the Philosophical Sciences, vol. 1, Logic
+
+“Mr. Balfour’s Natural Theology,” The Cambridge Review 35 (Mar 4 1914), 338-9
+
+“The Relation of Sense-Data to Physics,” Scientia 16 (Jul 1914), 1-27 Repr. ML
+
+“Mysticism and Logic,” The Hibbert Journal 12 (Jul 1914), 780-803 Repr. ML
+
+“Will This War End War?” The Labour Leader (London) 11, no. 37 (Sep 10 1914), 2
+
+“War: The Cause and the Cure,” The Labour Leader 11, no. 39 (Sep 24 1914), 2
+
+“Definitions and Methodological Principles in Theory of Knowledge,” The Monist 24 (Oct 1914), 582-93 Repr. TK pt.1 ch.4
+
+“Our Foreign Office: The Need of Democratic Control,” The Labour Leader 11, no. 41 (Oct 8 1914), 5
+
+“Armaments and National Security,” The Labour Leader 11, no. 42 (Oct 15 1914), 5
+
+“Why Nations Love War,” War and Peace (London) 2, no. 14 (Nov 1914), 20-1 Repr. JWT
+
+“Christianity and the War,” The Labour Leader 11, no. 52 (Dec 24 1914), 7
+
+1915
+
+“Sensation and Imagination,” The Monist 25 (Jan 1915), 28-44 Repr. TK pt.1 ch.5
+
+“ The Ethics of War,” The International Journal of Ethics 25, no. 2 (Jan 1915), 127-42 Repr. JWT
+
+“Can England and Germany Be Reconciled after the War?” The Cambridge Review 36 (Feb 10 1915), 185-6
+
+“Is a Permanent Peace Possible?” The Atlantic Monthly 115 (Mar 1915), 367-76 Repr. JWT
+
+“A True History of Europe’s Last War,” The Labour Leader 12, no. 10 (Mar 11 1915), 5
+
+“On the Experience of Time,” The Monist 25 (Apr 1915), 212-33 Repr. TK pt.1 ch.6
+
+“To Avoid Future Wars,” The Herald (London) no. 790 (May 8 1915), 4
+
+“A Notable Gathering,” The Cambridge Magazine 4 (May 22 1915), 419
+
+“Lord Northcliffe’s Triumph,” The Labour Leader 12, no. 21 (May 27 1915), 1
+
+“The Ultimate Constituents of Matter,” The Monist 25 (Jul 1915), 399-417 Repr. ML
+
+“The Future of Anglo-German Rivalry,” The Atlantic Monthly 116 (Jul 1915), 127-33 Repr. JWT
+
+“War and Non-Resistance,” The Atlantic Monthly 116 (Aug 1915), 266-74 Repr. JWT
+
+“On Justice in War-Time An Appeal to the Intellectuals of Europe,” The International Review 1 (Aug 10, Sep 1 1915), 145-51, 223-30 Repr. JWT
+
+“ The War and Non-Resistance: A Rejoinder to Professor Perry,” International Journal of Ethics 26 (Oct 1915), 23-30
+
+“Edith Cavell,” The Labour Leader 12, no. 43 (Oct 28 1915), 3
+
+Review of Gilbert Parker, The World in the Crucible: An Account of the Origins and Conduct of the Great War, The Cambridge Review 37 (Nov 24 1915), 122-3
+
+1916
+
+“Principles of Social Reconstruction,” War and Peace 3, no. 28 (Jan 1916), 52-3
+
+Conscription, The Labour Leader 13, no. 1 (Jan 6 1916), 7
+
+“The Danger to Civilisation,” The Open Court 30 (Mar 1916), 170-80 Repr. JWT
+
+“Religion and the Churches,” The Unpopular Review 5 (Apr-Jun 1916), 392-409 Repr. (revised) PSR ch.7
+
+“Practical War Economy,” The Labour Leader 13, no. 16 (Apr 20 1916), 6
+
+“War as an Institution,” The Atlantic Monthly 117 (May 1916), 603-13 Repr. PSR ch.3
+
+“Education as a Political Institution,” The Atlantic Monthly 117 (Jun 1916), 750-7 Repr. (revised) PSR ch.5
+
+“Trial of Mr. Bertrand Russell: Brilliant Defence of Anti-Militarists,” The Labour Leader 13, no. 23 (Jun 8 1916), 5
+
+“Marriage and the Population Question,” The International Journal of Ethics 26 (Jul 1916), 443-61 Repr. PSR ch.6
+
+“What Bertrand Russell Was Not Allowed to Say,” The Tribunal (London), no. 16 (Jul 6 1916), 2
+
+“The Nature of the State in View of Its External Relations,” Proceedings of the Aristotelian Society 16 (1915-16), 301-10
+
+“British Politics,” The Ploughshare n.s.1 (Aug 1916), 210-3
+
+“Hon. Bertrand Russell Says When Fate of Constantinople Is Settled,” Forward (Glasgow) 10, no. 39 (Aug 5 1916), 3
+
+“Clifford Allen and Mr. Lloyd George,” The Tribunal, no. 22 (Aug 17 1916), 1
+
+“Mr. Bertrand Russell and the War Office,” The Manchester Guardian, Sep 27 1916, 6 Repr. “Publisher’s Preface,” JWT
+
+“Syllabus of Lectures by Bertrand Russell,” War and Peace 4, no. 37 (Oct 1916), 7
+
+“What We Stand For,” The Tribunal, no. 30 (Oct 12 1916), 1
+
+“The N.C.P. and the Political Outlook,” The Tribunal, no. 38 (Dec 7 1916), 2
+
+“The Momentum of War,” The Tribunal, no. 39 (Dec 14 1916), 1, 3
+
+1917
+
+“Two Ideals of Pacifism,” War and Peace 4, no. 40 (Jan 1917), 58-60
+
+“The Logic of Armaments,” The Ploughshare n.s. 1 (Jan 1917), 366-9
+
+“For Conscience Sake,” The Independent (New York), 89 (Jan 15 1917), 101-3
+
+“The Future of The Tribunal,” The Tribunal (London), no. 44 (Jan 25 1917), 2
+
+“Political Ideals,” The North American Review, 205 (Feb 1917), 248-59 Repr. PI
+
+“Why the War Continues,” The U.D.C. 2 (Feb 1917), 41-2
+
+“President Wilson’s Statement,” The Tribunal, no. 45 (Feb 1 1917), 1 Repr. BRA1
+
+“The Prospects of the N.C.F. in the New Year,” The Tribunal, no. 45 (Feb 1 1917), 2
+
+“The Government and Absolute Exemption,” The Tribunal, no. 46 (Feb 8 1917), 2
+
+“National Service,” The Tribunal, no. 47 (Feb 15 1917), 2
+
+“Liberty and National Service,” The Tribunal, no. 48 (Feb 22 1917), 2
+
+“The Position of the Absolutists,” The Tribunal, no. 49 (Mar 1 1917), 2
+
+“War and Individual Liberty,” The Tribunal, no. 50 (Mar 8 1917), 2
+
+“Saul among the Prophets,” The Tribunal, no. 51 (Mar 15 1917), 2
+
+“Russia Leads the Way,” The Tribunal, no. 52 (Mar 22 1917), 2
+
+“The Evils of Persecution,” The Tribunal, no. 53 (Mar 29 1917), 2
+
+“The Conscientious Objector: A Reply to Mr. E.A. Wodehouse,” The Herald of the Star 6 (Apr 1917), 181-3
+
+“The New Hope,” The Tribunal, no. 54 (Apr 5 1917), 2
+
+“America’s Entry into the War,” The Tribunal, no. 55 (Apr 19 1917), 1 Repr. BRA1
+
+“The Importance of Mental Growth,” The Tribunal, no. 55 (Apr 19 1917), 2
+
+“Should the N.C.F. Abstain from All Political Action?” The Tribunal, no. 56 (Apr 26 1917), 2
+
+“National Independence and Internationalism,” Atlantic Monthly, 119 (May 1917), 622-28 Repr. PI
+
+“Message to Russia,” The Tribunal, no. 57 (May 3 1917), 2
+
+“Resistance And Service,” The Tribunal, no. 57 (May 3 1917), 2
+
+“How to Destroy Prussian Militarism,” The Tribunal, no. 58 (May 10 1917), 2
+
+“The Value of Endurance,” The Tribunal, no. 59 (May 17 1917), 2
+
+“Russia and Peace,” The Tribunal, no. 60 (May 24 1917), 2
+
+“Lord Derby and Leeds,” The Tribunal, no. 61 (Jun 7 1917), 2
+
+“The Chances of Peace,” The Tribunal, no. 62 (Jun 14 1917), 2
+
+“No-Conscription Fellowship,” News Sheet (Princetown, UK), no. 9 (Jun 1917), 7-8
+
+“The Price of Vengeance,” The Tribunal, no. 63 (Jun 21 1917), 2
+
+“The Military Authorities and the Absolutists,” The Tribunal, no. 64 (Jun 28 1917), 2
+
+“Individual Liberty and Public Control,” The Atlantic Monthly 120 (Jul 1917), 112-20 Repr. PI
+
+“Pacifism and Economic Revolution,” The Tribunal, no. 65 (Jul 5 1917), 2
+
+“The Renewed Ill-Treatment of C.O.’s,” The Tribunal, no. 66 (Jul 12 1917), 2
+
+“A Pacifist Revolution?” The Tribunal, no. 67 (Jul 19 1917), 2
+
+“Pacifism and Revolution,” The Tribunal, no. 67 (Jul 19 1917), supp., 2-3
+
+“The Fall of Bethmann-Hollweg,” The Herald, no. 905 (Jul 21 1917), 9
+
+“The International Situation,” The Tribunal, no. 68 (Jul 26 1917), 2
+
+“Chancellor and Premier,” The Herald, no. 906 (Jul 28 1917), 9
+
+“The Russian Revolution and International Relations,” The U.D.C. 2 (Aug 1917), 118-20
+
+“Crucify Him! Crucify Him!” The Tribunal, no. 69 (Aug 2 1917), 2
+
+“The International Situation,” The Tribunal, no. 71 (Aug 23 1917), 1, 4
+
+“Imperialist Anxieties,” The Tribunal, no. 72 (Aug 30 1917), 2
+
+“Self-Discipline and Self-Government,” The Herald of the Star 6 (Sep 1917), 484-8
+
+“Six Months for Spreading Truth,” The Tribunal, no. 73 (Sep 6 1917), 2
+
+“Idealism On The Defensive,” The Nation 21 (Sep 8 1917), 588, 590 Review of May Sinclair, A Defence of Idealism
+
+“Secret Diplomacy,” The Tribunal, no. 74 (Sep 13 1917), 2
+
+“The Charge of Anarchy,” The Tribunal, no. 75 (Sep 20 1917), 2
+
+“The Kaiser’s Reply to the Pope,” The Tribunal, no. 76 (Sep 27 1917), 2
+
+“Is Nationalism Moribund?” The Seven Arts 2 (Oct 1917), 673-87
+
+“Metaphysics,” English Review 25 (Oct 1917), 381-4 Review of May Sinclair, A Defence of Idealism
+
+“Asia and the War,” The Tribunal, no. 77 (Oct 4 1917), 2
+
+“The Times on Revolution,” The Pioneer (Merthyr Tydfil, Wales), no. 342 (Oct 6 1917), 1
+
+“Count Czernin’s Speech,” The Tribunal, no. 78 (Oct 11 1917), 2
+
+“A Valuable Suggestion by the Bishop of Exeter,” The Tribunal, no. 79 (Oct 18 1917), 2
+
+“The People and Peace,” The Tribunal, no. 80 (Oct 25 1917), 2
+
+“Saul among the Prophets,” The Tribunal, no. 81 (Nov 1 1917), 2
+
+“Will Conscription Continue after the War?” The Tribunal, no. 82 (Nov 8 1917), 2
+
+“A Metaphysical Defence of the Soul,” The Nation (London) 22 (Nov 10 1917), supp., 210, 212 Review of Laird, Problems of the Self
+
+“The International Outlook,” The Pioneer (Merthyr Tydfil, Wales), no. 347 (Nov 10 1917), 3
+
+“A New Tribunal for Gaol Delivery,” The Tribunal, no. 83 (Nov 15 1917), 2
+
+“Who Is the British Bolo?” The Tribunal, no. 84 (Nov 22 1917), 2
+
+“Boloism in Power,” The Tribunal, no. 85 (Nov 29 1917), 2
+
+“The Sanctity of Conscience,” The Herald, no. 924 (Dec 1 1917), 19
+
+“Lord Lansdowne’s Letter,” The Tribunal, no. 86 (Dec 6 1917), 2
+
+“The Government’s ‘Concessions,’” The Tribunal, no. 87 (Dec 13 1917), 2
+
+“Freedom Or Victory?” The Pioneer (Merthyr Tydfil, Wales), no. 352 (Dec 15 1917), 2
+
+“International Opinion During 1917,” The Tribunal, no. 89 (Dec 27 1917), 1, 3
+
+1918
+
+“The German Peace Offer,” The Tribunal, no. 90 (Jan 3 1918), 1 Repr. ABR2, ch. 1 as “Labour Can Impose Peace”
+
+“The Bolsheviks and Mr. Lloyd George,” The Tribunal, no. 91 (Jan 10 1918), 2
+
+“Human Character and Social Institutions,” The Ploughshare n.s. 3 (May 1918), 100-4
+
+“Pure Reason At Koenigsberg,” The Nation (London) 23 (Jul 20 1918), 426, 428 Review of N.K. Smith, Commentary to Kant’s Critique of Pure Reason
+
+“The Philosophy of Logical Atomism,” The Monist 28 (Oct 1918), 495-527; continued in 29 (Jan 1919), 33-63, and 29 (Apr 1919), 190-222. The July 1919 instalment (pp. 345-80) is after 27 April 1919 and is omitted. Repr. LK
+
+Review of C.D. Broad, Perception, Physics, and Reality, Mind, n.s. 27, no. 108 (Oct 1918), 492-8
+
+“The State God,” The Nation 24 (Dec 7 1918), 292, 294 Review of Hobhouse, Metaphysical Theory of the State, Mackenzie, Outlines of Social Philosophy, Hetherington, Social Purpose
+
+1919
+
+“Note on C.D. Broad’s Article in the July Mind,” Mind, n.s. 28, no. 109 (Jan 1919), 124
+
+“Professor Dewey’s Essays in Experimental Logic,” The Journal of Philosophy, Psychology and Scientific Methods 16 (Jan 2 1919), 5-26
+
+“The Religion of Neo-Platonism,” The Nation (London) 24 (Jan 25 1919), 491-2 Review of Inge, The Philosophy of Plotinus
+
+“On ‘Bad Passions,’” The Cambridge Magazine 8 (Feb 1 1919), 491-2
+
+“Why Are the C.O.’s Not Released?” The Labour Leader 16, no. 6 (Feb 6 1919), 7
+
+“Intellectual Guidance for the Masses,” The Nation 24 (Feb 8 1919), 556, 558 Review of Hearnshaw, Democracy at the Crossways
+
+“Philosophy and the Soul,” The Nation 24, (Mar 1 1919), 646, 648 Review of Haldane et al., Life and Finite Individuality
+
+“Biology of War,” Athenaeum no. 4,641 (Apr 11 1919), 172-3 Review of Nicolai, Biology of War
+
+“ Dreams and Facts,” The Athenaeum nos. 4,642-3 (Apr 18, 25 1919), 198-9, 232-3 Repr. SE
+
+“Democracy and Efficiency,” The Athenaeum no. 4,642 (Apr 18 1919), 204 Review of Jenks, The State and the Nation, Barthélemy, Le Problème de la compétence dans la démocratie
+
+“What the Conscientious Objector Has Achieved,” The Tribunal, no. 154 (Apr 24 1919), 2
+
+“Philosophers and Rebels,” The Nation 25 (Apr 26 1919), 111 Review of Scott, Syndicalism and Philosophical Realism
+
+Letters to the editor and press statements
+
+1904
+
+“Mr. Charles Booth on Fiscal Reform,” The Spectator 92 (Jan 16 1904), 83-4 
+
+“Old and New Protectionism,” The Spectator 92 (Jan 23 1904), 125-6 
+
+“International Competition,” The Spectator 92 (Jan 30 1904), 180 
+
+“Mr. Gerald Balfour on Countervailing Duties,” Westminster Gazette 10 (Feb 1904), 2
+
+1906
+
+“M. Poincaré’s Science et hypothèse,” Mind 15 (Jan 1906), 143 Reply to Poincaré
+
+1907
+
+“The Bye-Elections: Incidents in the Wimbledon Contest,” The Morning Post (London), May 9 1907, 5 An exchange of letters with Henry Chaplin 
+
+Last Message to Wimbledon Electors: “I Am a Liberal” The Daily News (London), May 14 1907, 8
+
+1910
+
+“A Protest from the Voteless,” The Common Cause 2 (Apr 28 1910), 43
+
+1913
+
+“The Proposed Change in the Ordination Service,” The Cambridge Magazine 3 (Nov 22 1913), 173
+
+1914
+
+“Inspiration,” The Cambridge Magazine 3 (Jan 31 1914), 300 Repr. Russell, nos. 37-40 (1980), 52 
+
+“The Rights of the War,” The Nation 15 (Aug 15 1914), 737-8 Repr. ABR 
+
+“Belgian Professors in Cambridge,” The Cambridge Magazine 4 (Oct 24 1914), 45 
+
+“Fear as the Ultimate Cause of War,” The Cambridge Magazine 4 (Oct 24 1914), 54 
+
+“Possible Guarantees of Peace,” The Economist, 79 (Dec 12 1914), 1,035-6
+
+1915
+
+“The Policy of the Allies,” The Nation (London), 16 (Feb 13 1915), 619 
+
+“Mr. Russell’s Reply to his Critics,” The Cambridge Review 36 (Feb 24 1915), 218-9 
+
+“Mr. Bertrand Russell and the Ethics of War,” The Westminster Gazette, Mar 27 1915, 2 
+
+“The Reconciliation Question,” The Cambridge Review 36 (Mar 10 1915), 250-1 
+
+“Letter from Bertrand Russell,” The Journal of Philosophy, Psychology and Scientific Methods 12 (Jul 8 1915), 391-2 Russell claims that sense data are physical 
+
+“The International Review,” The Times (London), Sep 20 1915, 9 
+
+“Two Letters,” The Cambridge Magazine 5 (Oct 30 1915), 56 Russell replies to Sorley’s charge that Russell hates England Sorley replies 
+
+“Mr. Russell Replies,” The Cambridge Magazine 5 (Nov 6 1915), 79 Reply to Sorley
+
+1916
+
+“Mr. Russell’s Reply,” The Cambridge Magazine 5 (Feb 12 1916), 305, 307 
+
+“North Staffs’ Praise of War,” The Cambridge Magazine 5 (Mar 11 1916), 386 
+
+“A Clash of Consciences,” The Nation 19 (Apr 15 1916), 76 
+
+“Will They Be Shot?” The Herald, no. 842 (May 6 1916), 10 On conscientious objectors 
+
+“Adsum Qui Feci,” The Times (London), May 17 1916, 9 Repr. ABR vol. 2, 64-5 
+
+“Liberty of Conscience,” The Cambridge Magazine 5 (May 27 1916), 505 
+
+“The Conscientious Objector,” Daily News and Leader (London), Aug 10 1916, 4 
+
+“Rex v. Russell,” The Manchester Guardian, Aug 14 1916, 8 
+
+“Bertrand Russell’s Advice,” The Labour Leader 13, no. 36 (Sep 7 1916), 4 
+
+“Mr. Russell’s Lectures,” The Times, Oct 20 1916, 9 
+
+“Mr. Bertrand Russell’s Case,” The Times, Oct 27 1916, 7 
+
+“Mysterious Girl Brings Russell’s Peace Plea Here,” The New York Times, Dec 23 1916, 1, 3
+
+1917
+
+“The Pacifist at Large,” The Morning Post (London), Jan 15 1917, 9 
+
+“Conscientious Objectors,” The Manchester Guardian, Mar 19 1917, 8 
+
+“Conscientious Objectors,” The New Statesman 9 (Jun 2 1917), 206 
+
+“Conscientious Objectors,” The New Statesman 14 (Jun 9 1917), 229
+
+1918
+
+“Mr. Bertrand Russell and the War,” The Morning Post (London), Feb 9 1918, 4 
+
+“The Role of Truth in Art,” The Nation (London), 23 (Jul 27 1918), 446 Letter defending Siegfried Sassoon’s anti-war poems
+
+Left out, as printed after 27 April 1919
+
+The July 1919 instalment of "The Philosophy of Logical Atomism," The Monist 29 (Jul 1919), 345-80.
+"Democracy and Direct Action," The English Review 28 (May 1919) and The Dial 66 (3 May 1919); the Independent Labour Party pamphlet followed later in 1919.
+"On Propositions: What They Are and How They Mean," Aristotelian Society, Supplementary Volume 2 (1919), from the Joint Session of July 1919.
+Serial pieces dated from May 1919 onward, including the Athenaeum letter "The Biology of War" (16 May 1919) and the Daily Herald reviews of 16 and 23 July 1919.
